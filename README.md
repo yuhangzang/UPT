@@ -1,7 +1,7 @@
 <h1 align="center"> Unified Vision and Language Prompt Learning </h1>
 
 <h2 align="center">
-  <a href="https://https://arxiv.org/pdf/2210.07225.pdf">arXiv</a> |
+  <a href="https://arxiv.org/pdf/2210.07225.pdf">arXiv</a> |
   <a href="https://github.com/yuhangzang/UPT">Code</a>
 </h2>
 
