@@ -1,3 +1,5 @@
+
+
 <h1 align="center"> Unified Vision and Language Prompt Learning </h1>
 
 <h2 align="center">
@@ -15,8 +17,8 @@
 
 ## How to run
 
-This code is based on [CoOp](https://github.com/KaiyangZhou/CoOp), you may refer to the [install instruction](https://github.com/KaiyangZhou/CoOp?tab=readme-ov-file#how-to-install) 
+This code is based on [CoOp](https://github.com/KaiyangZhou/CoOp), you may refer to the [install instruction](https://github.com/KaiyangZhou/CoOp?tab=readme-ov-file#how-to-install).
 
-The training scripts to re-produce the results are provided [here](scripts/unified).
+The training scripts to reproduce the results are provided [here](scripts/unified). Ensure the `DATA` variable in the scripts points to your dataset directory.
 
 The model structure is defined [here](trainers/unified.py).
